@@ -156,15 +156,20 @@ viswanathapuram.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-10-13 183206.png>)
+![image](https://github.com/user-attachments/assets/2a8c64a8-031f-4645-85d8-fa4119a5e7cf)
 
-![alt text](<Screenshot 2024-10-13 183224.png>)
 
-![alt text](<Screenshot 2024-10-13 183248.png>)
+![image](https://github.com/user-attachments/assets/3de7e8bd-8f2a-4311-96b7-c1dfbfe3866c)
 
-![alt text](<Screenshot 2024-10-13 183303.png>)
 
-![alt text](<Screenshot 2024-10-13 183319.png>)
+![image](https://github.com/user-attachments/assets/2e15f1ec-5662-469b-b650-58739d666f0a)
+
+
+![image](https://github.com/user-attachments/assets/60930829-22ea-455f-9157-2017c5690fd1)
+
+
+![image](https://github.com/user-attachments/assets/38c623d5-850f-4025-950e-5a37737ddb17)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
